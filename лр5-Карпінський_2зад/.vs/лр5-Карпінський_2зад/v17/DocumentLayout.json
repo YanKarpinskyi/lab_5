@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFB724C-FDCE-4455-B6E4-F88F4B7FC5B0}|\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434.vcxproj|D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFFB724C-FDCE-4455-B6E4-F88F4B7FC5B0}|\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFB724C-FDCE-4455-B6E4-F88F4B7FC5B0}|\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434.vcxproj|D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{AFFB724C-FDCE-4455-B6E4-F88F4B7FC5B0}|\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv4oAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T07:11:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\KNU\\ipz\\\u043B\u04405-\u041A\u0430\u0440\u043F\u0456\u043D\u0441\u044C\u043A\u0438\u0439_2\u0437\u0430\u0434\\MyForm.h [Design]",
+              "RelativeToolTip": "MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T07:09:18.233Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
